@@ -3,6 +3,9 @@
 <!-- text appears at the start of lines -->
 <!-- (while html appears at the end) -->
 <!-- * * * * * * * * * * --> <h1 align="center">
+# Todo 
+make ui more simple for average joe. want to recommend it to ppl to block distractions but dont want them to feel overwhlmed after opening it. take inspiration from https://unhook.app/
+
 ImprovedTube &nbsp;&nbsp;</h1><p align="center"><b><code>
 /«Improve YouTube!»/</code></b> 
 is a lightweight & powerful extension to improve your video experience & choice.</p>
